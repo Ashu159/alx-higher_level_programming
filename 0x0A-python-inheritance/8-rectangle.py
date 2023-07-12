@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""This is a module container of the function 7-base_geometry.py
+"""
+
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 

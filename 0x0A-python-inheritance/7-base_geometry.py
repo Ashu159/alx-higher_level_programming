@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""This is a module container of the function 6-base_geometry.py
+"""
+
+
 class BaseGeometry:
     """A class with public instance methods area and integer_validator"""
     def area(self):
