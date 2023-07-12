@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Contains the "load_from_json_file" function
+"""
 
 import json
 

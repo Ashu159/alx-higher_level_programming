@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+The "from_json_string" function container
+"""
 import json
 
 

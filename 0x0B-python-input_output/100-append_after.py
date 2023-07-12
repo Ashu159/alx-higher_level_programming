@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Module for append_after method.
+"""
 def append_after(filename="", search_string="", new_string=""):
     '''Method for inserting text after search string.'''
     lines = []
